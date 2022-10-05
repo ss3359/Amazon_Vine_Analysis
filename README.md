@@ -40,9 +40,12 @@ There is a considerable jump of the percentage of five star reviewers who paid o
 
 From the file used to conduct the analysis, this comes from a very large amount of people reviewing books on Amazon. Therefore, we need to consdier how many people were dissatisfied with the books whether customers paid the book or not. That way, the company can get a sense of what type of book the population wants to read based on their satisfactory level. Also, we would like a reasonable amount of people reviewing for a certain type of book as well.  Here are the dataframes representing paid and unpaind vine-reviewed customers giving a 3 star rating, and the books obtained at least 50 votes. 
 
-## Figure 5 
+## Figure 5 (Paid Vine Reviewers With a Three Star Rating)
+<img width="595" alt="Screen Shot 2022-10-05 at 2 00 07 PM" src="https://user-images.githubusercontent.com/104328106/194151786-d2592d45-9f25-4841-a426-48175b3cebcb.png">
 
 
-## Figure 6 
+## Figure 6 (Unpaid Vine Reviewers With a Three Star Rating)
+<img width="593" alt="Screen Shot 2022-10-05 at 2 02 56 PM" src="https://user-images.githubusercontent.com/104328106/194152329-983d6ffb-c1fe-418f-b7d1-579a9180581b.png">
 
+As we can see form the two tables, we have 22% paid vine reviewed customers that were neither satisfied or unsatisfied with the purchase while 10% of unpaid vine reviewed customers were neither satisfied or dissatisfied with their purchase on Amazon. 
 
