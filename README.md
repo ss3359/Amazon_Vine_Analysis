@@ -16,7 +16,8 @@ pgAdmin. The information that was computed first was the number of Vine-Reviews 
 
 
 ## Figure Two (Unpaid Vine Reviews Dataframe)
-<img width="1318" alt="Screen Shot 2022-10-05 at 1 24 51 PM" src="https://user-images.githubusercontent.com/104328106/194145189-627135cc-2f53-495d-a03b-e57982f0f5fa.png">
+<img width="739" alt="Screen Shot 2022-10-05 at 2 15 51 PM" src="https://user-images.githubusercontent.com/104328106/194154730-cd4e2221-9dde-4800-96f8-2be4feac8730.png">
+
 
 
 According to the two dataframes, there were 5,012 paid vine-reviews for book and 109,297 unpaid, vine reviews for books. 
