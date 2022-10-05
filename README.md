@@ -10,7 +10,9 @@ The resources that was used to conduct the analysis is through this data file. T
 pgAdmin. The information that was computed first was the number of Vine-Reviews and Non_Vine-Reviews. The data acquired examines the number of books sold on Amazon.com. Here are the dataframes for the Vine-Reviews and the Non-Vine Reviews respectively. 
 
 ## Figure One (Paid Vine-Reviews Dataframe)
-<img width="967" alt="Screen Shot 2022-10-05 at 1 23 10 PM" src="https://user-images.githubusercontent.com/104328106/194144906-e13807ad-c24e-4783-9598-956b4bd0afe2.png">
+><img width="724" alt="Screen Shot 2022-10-05 at 2 11 50 PM" src="https://user-images.githubusercontent.com/104328106/194153956-fc3b375d-c9de-4e35-a80d-1cad84c87e64.png">
+
+
 
 
 ## Figure Two (Unpaid Vine Reviews Dataframe)
